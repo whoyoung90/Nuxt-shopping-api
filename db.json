@@ -181,5 +181,12 @@
       "imageUrl": "http://placeimg.com/640/480/fashion"
     }
   ],
-  "carts": []
+  "carts": [
+    {
+      "id": 0,
+      "name": "Refined Fresh Chicken",
+      "price": "209.00",
+      "imageUrl": "http://placeimg.com/640/480/fashion"
+    }
+  ]
 }
